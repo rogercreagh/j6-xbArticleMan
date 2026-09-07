@@ -1,5 +1,5 @@
-# j5-xbArticleMan
-#####  Article Manager for Joomla5 to manage links, images, tags and shortcodes in com_content articles. 
+# j6-xbArticleMan
+#####  Article Manager for Joomla6 to manage links, images, tags and shortcodes in com_content articles. 
 
 The aim is to provide facilities which are missing from core Joomla that can make it difficult keeping track of broken links (internal and external), missing images (internal or external), plugin shortcodes that may be in use, and where tags are used (both in articles and also ny other components).
 
@@ -7,9 +7,7 @@ If you have a decent number of articles xbArticleMan is here to help you find br
 
 ------
 
-This is developed from the Joomla 3 version but is reworked as Joomla5 native code - do not attempt to install on J3. It should work okay on J5 without the B/C plugin activated.
-
-It *might* work with Joomla 4 but I absolutely haven't tested it - try it at your own risk, and if it doesn't work then you'll have to update to J5.
+The J5 (current release) and J3 versions remain available. J5 version is frozen at 5.0.0.3 complete with bugs. J3 is v2.1.0.0
 
 ------
 
