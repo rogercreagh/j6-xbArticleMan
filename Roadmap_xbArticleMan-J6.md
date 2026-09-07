@@ -8,7 +8,10 @@
 - **DONE** v0.2.2 - 14th March 2024 **RC3** to CrOsborne.uk - Dashboard display changelog
 - **DONE** v0.3.0 - **RC4** CrOsborne.uk support pages available and linked
 - **DONE** v5.0.0 - **PUBLIC RELEASE** to JED - Admin backend fully functional
-- v5.1.0 - add Site Article Blog view all Categories with menu cat & tag filter
+
+#### Component com_xbarticleman Joomla6 version
+- v6.0.0 - conversion from v5.0.0.3
+- v6.1.0 - add Site Article Blog view all Categories with menu cat & tag filter
 - v5.2.0 - add Site multi-category article list with menu cat & tag filter
 - v5.3.0 - add Site Articles Tags view with menu cat & tag filter 
 - v5.4.0 - add SIte Tagged Items view with menu components filter

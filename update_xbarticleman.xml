@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
 	<update>
+		<name>xbArticleMan-J6</name>
+		<description>Managment facilities for com_conent articles</description>
+		<element>com_xbarticleman</element>
+		<type>component</type>
+		<client>administrator</client>
+		<version>6.0.0.0</version>
+		<infourl>https://crosborne.uk/xbarticleman-j6</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/rogercreagh/j6-xbArticleMan/releases/download/v6.0.0.0/com_xbmusic_v6.0.0.0.zip</downloadurl>
+		</downloads>
+        <tags>
+          <tag>stable</tag>
+        </tags>
+        <sha256></sha256>
+    	<changelogurl>https://raw.githubusercontent.com/rogercreagh/j6-xbArticleMan/main/changelog_xbarticleman-j6.xml</changelogurl>
+		<maintainer>Roger C-O</maintainer>
+		<maintainerurl>https://crosborne.uk/xbarticleman</maintainerurl>
+		<targetplatform name="joomla" version="5.*"/>	
+		<php_minimum>8.4</php_minimum>
+	</update>
+	<update>
 		<name>xbArticleMan-J5</name>
 		<description>Managment facilities for com_conent articles</description>
 		<element>com_xbarticleman</element>
